@@ -29,3 +29,10 @@ Open the Streamlit URL shown in the terminal. The API is available at `http://lo
 ```powershell
 pytest -q
 ```
+
+
+## Evaluation
+
+```powershell
+python -m evaluation.evaluate
+```
