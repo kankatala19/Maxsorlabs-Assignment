@@ -1,18 +1,7 @@
-# Damaged goods
+# Damaged Goods Policy
 
-For items damaged in transit, first request clear photos of:
-1. The item
-2. The inner and outer packaging
-3. The shipping label
-
-After photos confirm damage:
-- Offer a replacement if the item is in stock
-- Offer a refund if the customer does not want a replacement or the item is out of stock
-
-If the customer already discarded the packaging, still request photos of the item. A replacement may still be approved if damage is obvious.
-
-Do not approve a refund or replacement without photos unless the customer cannot take photos and explains why.
-
-Minor cosmetic scratches on clearance items are not covered.
-
-If damage happened after delivery because of customer use, deny the claim and explain that transit damage must be reported within 7 days of delivery.
+1. Damage must be reported within 7 calendar days of delivery.
+2. For damaged orders valued at ₹2,000 or less, the customer may receive a refund or replacement without photographic evidence.
+3. For damaged orders valued above ₹2,000, photographs of the damaged product and packaging must be requested before a refund or replacement is approved.
+4. Damage reported more than 7 days after delivery is not eligible under the standard damaged-goods policy.
+5. If the customer does not provide enough information to determine when the order was delivered or what was damaged, request more information.
